@@ -21,12 +21,12 @@ This landing page is deployed to introduce the project while the full applicatio
 
 ##  Features (Phase -1 )
 
-* 📚 Book discovery (search by title, author, category)
-* 👤 Author profiles with detailed information
-* 💬 Direct communication with authors
-* 📖 Free-to-read book section
-* 🔐 User authentication and personalized experience
-* 🌍 Global access for readers and authors
+*  Book discovery (search by title, author, category)
+*  Author profiles with detailed information
+*  Direct communication with authors
+*  Free-to-read book section
+*  User authentication and personalized experience
+*  Global access for readers and authors
 
 ---
 
@@ -67,4 +67,4 @@ Developed by **EDAKBM**
 
 ##  Status
 
-🚧 This project is currently under development. Full version coming soon!
+ This project is currently under development. Full version coming soon!
